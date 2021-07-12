@@ -204,7 +204,7 @@ public class MCAccessBukkitBase implements MCAccess {
             case PIGLIN:
             case AXOLOTL:
             case GOAT:
-            case: GLOWSQUID
+            case GLOWSQUID:
             case SKELETON:
             case CREEPER:
             case ENDERMAN:
